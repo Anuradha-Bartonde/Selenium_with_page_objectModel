@@ -25,9 +25,8 @@ public class LoginPageTest extends TestBase{
 		super();
 	}
 
-	@Test()
-	
-	public void login()
+	@Test(groups={"Sanity"})
+	public void login() throws InterruptedException
 	{
 		dashboardpage=loginPgae.login();
 		String username=dashboardpage.getLoggedinUser();

@@ -8,10 +8,14 @@ import java.util.concurrent.TimeUnit;
 
 import listeners.WebEventHandler;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -19,6 +23,7 @@ public class TestBase {
 	public  static Properties prop;
 	public  static WebDriver driver;
 	public static WebDriverWait wait;
+	public static JavascriptExecutor js;
 public TestBase()
  {
 	FileInputStream fis;
@@ -44,6 +49,11 @@ public void  initialize()
 	 }
 	else if(browseName.equalsIgnoreCase("chrome"))
 	{
+		//DesiredCapabilities capabilities=new DesiredCapabilities();
+		//DesiredCapabilities capabilities=DesiredCapabilities.chrome();
+		//capabilities.setCapability(CapabilityType.ACCEPT_INSECURE_CERTS, true);
+		//ChromeOptions options=new ChromeOptions();
+		//options.merge(capabilities);
 		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/chromedriver.exe");
 		driver=new ChromeDriver();
 	}
@@ -55,13 +65,14 @@ public void  initialize()
 	
 	//Register for handling webEventListener
 	EventFiringWebDriver eventDriver=new EventFiringWebDriver(driver);
+	js=(JavascriptExecutor)driver;
 	WebEventHandler handler=new WebEventHandler();
 	eventDriver.register(handler);
 	driver=eventDriver;
 	driver.manage().window().maximize();
-	driver.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
+	driver.manage().timeouts().pageLoadTimeout(50, TimeUnit.SECONDS);
 	driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-	wait= new WebDriverWait(driver,30);
+	wait= new WebDriverWait(driver,50);
 	driver.get(prop.getProperty("url1"));
 	
 }

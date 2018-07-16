@@ -26,11 +26,11 @@ public class WebEventHandler implements WebDriverEventListener{
 	}
 
 	public void afterClickOn(WebElement element, WebDriver driver) {
-		System.out.println("Element is clicked");			
+		//System.out.println("Element is clicked");			
 	}
 
-	public void afterFindBy(By arg0, WebElement arg1, WebDriver arg2) {
-		System.out.println("Found Element: ");
+	public void afterFindBy(By by, WebElement element, WebDriver arg2) {
+		//System.out.println("Found Element: ");
 		
 	}
 
@@ -120,7 +120,7 @@ public class WebEventHandler implements WebDriverEventListener{
 	}
 
 	public void onException(Throwable error, WebDriver driver) {
-		System.out.println("error occured");
+		System.out.println("Error: "+error.getStackTrace());
 		TestUtils.takesScreenshot();
 		
 	}
