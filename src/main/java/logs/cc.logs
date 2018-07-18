@@ -1,0 +1,306 @@
+16/07/2018 16:10:15 CCRootLogger ****Dashboard Page BeforeSuite() Test****
+16/07/2018 16:10:16 CCRootLogger ****Dashboard Page BeforeTest() Test****
+16/07/2018 16:10:58 CCRootLogger Logged In user: Anuradha Bartonde
+16/07/2018 16:10:58 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 16:11:49 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 16:11:49 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 16:12:30 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 16:13:11 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 16:13:11 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 16:13:53 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 16:14:45 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 16:14:45 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 16:15:27 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 16:16:23 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 16:16:23 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 16:17:05 CCRootLogger ****Dashboard Page BeforeMethod()****
+16/07/2018 17:12:42 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 17:13:28 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 17:13:28 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 17:14:36 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 17:15:19 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 17:15:19 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 17:32:02 CCRootLogger Logged In user: Anuradha Bartonde
+16/07/2018 18:07:24 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:08:11 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:08:11 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 18:13:31 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:14:12 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:14:12 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 18:15:49 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:16:33 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:16:33 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 18:20:57 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:22:15 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:23:01 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:23:01 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 18:27:50 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:28:36 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:28:36 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 18:30:21 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:31:06 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:31:06 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 18:32:07 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:32:52 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:32:52 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 18:35:26 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:36:25 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:36:25 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 18:39:22 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:40:08 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 18:40:08 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 19:10:49 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 19:11:56 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 19:11:56 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 19:37:41 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 19:39:36 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 19:40:32 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 19:40:32 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 19:44:29 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 19:45:12 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 19:45:12 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 19:53:13 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 19:54:54 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 19:54:54 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 20:00:18 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 20:01:02 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 20:01:02 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 20:02:37 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 20:03:18 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 20:03:18 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 20:13:18 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 20:14:08 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 20:14:08 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 20:22:33 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 20:23:20 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+16/07/2018 20:23:20 CCRootLogger ****************Start of createNewEnvironment() method *****************
+16/07/2018 20:34:46 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 20:35:52 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+16/07/2018 20:36:58 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 18:36:53 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 18:37:42 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+17/07/2018 18:37:42 CCRootLogger ****************Start of createNewEnvironment() method *****************
+17/07/2018 18:51:31 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 18:52:21 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+17/07/2018 18:52:21 CCRootLogger ****************Start of createNewEnvironment() method *****************
+17/07/2018 18:56:29 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 18:57:17 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+17/07/2018 18:57:17 CCRootLogger ****************Start of createNewEnvironment() method *****************
+17/07/2018 18:59:30 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:00:17 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:00:17 CCRootLogger ****************Start of createNewEnvironment() method *****************
+17/07/2018 19:26:40 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:27:33 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:27:33 CCRootLogger ****************Start of createNewEnvironment() method *****************
+17/07/2018 19:29:22 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:30:09 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:30:09 CCRootLogger ****************Start of createNewEnvironment() method *****************
+17/07/2018 19:40:59 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:41:44 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:41:44 CCRootLogger ****************Start of createNewEnvironment() method *****************
+17/07/2018 19:43:21 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:44:03 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:44:04 CCRootLogger ****************Start of createNewEnvironment() method *****************
+17/07/2018 19:45:13 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:46:33 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:46:33 CCRootLogger ****************Start of createNewEnvironment() method *****************
+17/07/2018 19:48:11 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:48:58 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:48:58 CCRootLogger ****************Start of createNewEnvironment() method *****************
+17/07/2018 19:50:38 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:51:27 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:51:27 CCRootLogger ****************Start of createNewEnvironment() method *****************
+17/07/2018 19:55:47 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:56:31 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+17/07/2018 19:56:31 CCRootLogger ****************Start of createNewEnvironment() method *****************
+18/07/2018 16:08:28 freemarker.cache Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 16:08:28 freemarker.cache TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+18/07/2018 16:08:28 freemarker.cache TemplateLoader.findTemplateSource("index.ftl"): Found
+18/07/2018 16:08:28 freemarker.cache Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+18/07/2018 16:08:29 freemarker.cache Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("head.ftl"): Found
+18/07/2018 16:08:29 freemarker.cache Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+18/07/2018 16:08:29 freemarker.cache Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("nav.ftl"): Found
+18/07/2018 16:08:29 freemarker.cache Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+18/07/2018 16:08:29 freemarker.cache Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+18/07/2018 16:08:29 freemarker.cache Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+18/07/2018 16:08:29 freemarker.cache Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+18/07/2018 16:08:29 freemarker.cache Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+18/07/2018 16:08:29 freemarker.cache Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+18/07/2018 16:08:29 freemarker.cache Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+18/07/2018 16:08:29 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 16:08:29 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 16:08:29 freemarker.cache Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+18/07/2018 16:08:29 freemarker.cache Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+18/07/2018 16:08:29 freemarker.cache Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+18/07/2018 16:08:29 freemarker.cache Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+18/07/2018 16:08:29 freemarker.cache Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+18/07/2018 16:08:29 freemarker.cache Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+18/07/2018 16:08:29 freemarker.cache Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+18/07/2018 16:08:29 freemarker.cache Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+18/07/2018 16:08:29 freemarker.cache Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+18/07/2018 16:08:29 freemarker.cache TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+18/07/2018 16:08:29 freemarker.cache Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+18/07/2018 18:08:08 CCRootLogger ****Dashboard Page BeforeSuite() Test****
+18/07/2018 18:08:08 CCRootLogger ****Dashboard Page BeforeTest() Test****
+18/07/2018 18:10:09 CCRootLogger Logged In user: Anuradha Bartonde
+18/07/2018 18:10:09 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+18/07/2018 18:11:36 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+18/07/2018 18:11:36 CCRootLogger ****************Start of createNewEnvironment() method *****************
+18/07/2018 18:12:27 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+18/07/2018 18:13:27 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+18/07/2018 18:13:27 CCRootLogger ****************Start of createNewEnvironment() method *****************
+18/07/2018 18:14:17 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+18/07/2018 18:15:16 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+18/07/2018 18:15:16 CCRootLogger ****************Start of createNewEnvironment() method *****************
+18/07/2018 18:16:06 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+18/07/2018 18:17:16 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+18/07/2018 18:17:16 CCRootLogger ****************Start of createNewEnvironment() method *****************
+18/07/2018 18:18:06 CCRootLogger ****Dashboard Page BeforeMethod()****
+18/07/2018 18:19:32 CCRootLogger On Dashborad Page
+18/07/2018 18:19:32 CCRootLogger ****Dashboard Page AfterMethod()****
+18/07/2018 18:20:34 CCRootLogger ****Dashboard Page BeforeMethod()****
+18/07/2018 18:21:41 CCRootLogger On Dashborad Page:Test2()
+18/07/2018 18:21:41 CCRootLogger ****Dashboard Page AfterMethod()****
+18/07/2018 18:21:42 CCRootLogger ****Dashboard Page BeforeMethod()****
+18/07/2018 18:22:24 CCRootLogger On Dashborad Page:Test3()
+18/07/2018 18:22:24 CCRootLogger ****Dashboard Page AfterMethod()****
+18/07/2018 18:22:25 CCRootLogger ****Dashboard Page AfterTest() Test****
+18/07/2018 18:22:27 CCRootLogger ****Dashboard Page AfterSuite() Test****
+18/07/2018 18:22:28 freemarker.cache Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:22:28 freemarker.cache TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+18/07/2018 18:22:28 freemarker.cache TemplateLoader.findTemplateSource("index.ftl"): Found
+18/07/2018 18:22:28 freemarker.cache Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+18/07/2018 18:22:30 freemarker.cache Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("head.ftl"): Found
+18/07/2018 18:22:30 freemarker.cache Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+18/07/2018 18:22:30 freemarker.cache Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("nav.ftl"): Found
+18/07/2018 18:22:30 freemarker.cache Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+18/07/2018 18:22:30 freemarker.cache Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+18/07/2018 18:22:30 freemarker.cache Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+18/07/2018 18:22:30 freemarker.cache Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+18/07/2018 18:22:30 freemarker.cache Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+18/07/2018 18:22:30 freemarker.cache Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+18/07/2018 18:22:30 freemarker.cache Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+18/07/2018 18:22:30 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 18:22:30 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 18:22:30 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 18:22:30 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 18:22:30 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 18:22:30 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 18:22:30 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 18:22:30 freemarker.cache Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+18/07/2018 18:22:30 freemarker.cache Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+18/07/2018 18:22:30 freemarker.cache Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+18/07/2018 18:22:30 freemarker.cache Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+18/07/2018 18:22:30 freemarker.cache Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+18/07/2018 18:22:30 freemarker.cache Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+18/07/2018 18:22:30 freemarker.cache Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+18/07/2018 18:22:30 freemarker.cache Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+18/07/2018 18:22:30 freemarker.cache Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+18/07/2018 18:22:30 freemarker.cache TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+18/07/2018 18:22:30 freemarker.cache Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+18/07/2018 18:35:11 CCRootLogger ****Dashboard Page BeforeSuite() Test****
+18/07/2018 18:35:11 CCRootLogger ****Dashboard Page BeforeTest() Test****
+18/07/2018 18:35:58 CCRootLogger Logged In user: Anuradha Bartonde
+18/07/2018 18:35:58 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+18/07/2018 18:36:41 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+18/07/2018 18:36:41 CCRootLogger ****************Start of createNewEnvironment() method *****************
+18/07/2018 18:37:22 CCRootLogger *****Start of stepUp() of PolicyManagementPageTest ********
+18/07/2018 18:38:06 CCRootLogger *****End of stepUp() of PolicyManagementPageTest ********
+18/07/2018 18:38:06 CCRootLogger ****************Start of createNewEnvironment() method *****************
+18/07/2018 18:38:47 CCRootLogger ****Dashboard Page BeforeMethod()****
+18/07/2018 18:39:37 CCRootLogger On Dashborad Page
+18/07/2018 18:39:37 CCRootLogger ****Dashboard Page AfterMethod()****
+18/07/2018 18:39:38 CCRootLogger ****Dashboard Page BeforeMethod()****
+18/07/2018 18:40:29 CCRootLogger ****Dashboard Page AfterMethod()****
+18/07/2018 18:40:29 CCRootLogger ****Dashboard Page BeforeMethod()****
+18/07/2018 18:41:15 CCRootLogger On Dashborad Page:Test3()
+18/07/2018 18:41:15 CCRootLogger ****Dashboard Page AfterMethod()****
+18/07/2018 18:41:16 CCRootLogger ****Dashboard Page AfterTest() Test****
+18/07/2018 18:41:17 CCRootLogger ****Dashboard Page AfterSuite() Test****
+18/07/2018 18:41:17 freemarker.cache Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:41:17 freemarker.cache TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+18/07/2018 18:41:17 freemarker.cache TemplateLoader.findTemplateSource("index.ftl"): Found
+18/07/2018 18:41:17 freemarker.cache Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+18/07/2018 18:41:21 freemarker.cache Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:41:21 freemarker.cache TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+18/07/2018 18:41:21 freemarker.cache TemplateLoader.findTemplateSource("head.ftl"): Found
+18/07/2018 18:41:21 freemarker.cache Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+18/07/2018 18:41:21 freemarker.cache Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:41:21 freemarker.cache TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+18/07/2018 18:41:21 freemarker.cache TemplateLoader.findTemplateSource("nav.ftl"): Found
+18/07/2018 18:41:21 freemarker.cache Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+18/07/2018 18:41:21 freemarker.cache Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:41:21 freemarker.cache TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+18/07/2018 18:41:21 freemarker.cache TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+18/07/2018 18:41:21 freemarker.cache Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+18/07/2018 18:41:21 freemarker.cache Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:41:21 freemarker.cache TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+18/07/2018 18:41:21 freemarker.cache TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+18/07/2018 18:41:21 freemarker.cache Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+18/07/2018 18:41:21 freemarker.cache Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:41:21 freemarker.cache TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+18/07/2018 18:41:21 freemarker.cache TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+18/07/2018 18:41:21 freemarker.cache Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+18/07/2018 18:41:21 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 18:41:21 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 18:41:21 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 18:41:21 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 18:41:21 freemarker.cache "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+18/07/2018 18:41:21 freemarker.cache Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:41:21 freemarker.cache TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+18/07/2018 18:41:21 freemarker.cache TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+18/07/2018 18:41:21 freemarker.cache Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+18/07/2018 18:41:22 freemarker.cache Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:41:22 freemarker.cache TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+18/07/2018 18:41:22 freemarker.cache TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+18/07/2018 18:41:22 freemarker.cache Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+18/07/2018 18:41:22 freemarker.cache Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:41:22 freemarker.cache TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+18/07/2018 18:41:22 freemarker.cache TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+18/07/2018 18:41:22 freemarker.cache Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+18/07/2018 18:41:22 freemarker.cache Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:41:22 freemarker.cache TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+18/07/2018 18:41:22 freemarker.cache TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+18/07/2018 18:41:22 freemarker.cache Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+18/07/2018 18:41:22 freemarker.cache Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+18/07/2018 18:41:22 freemarker.cache TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+18/07/2018 18:41:22 freemarker.cache TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+18/07/2018 18:41:22 freemarker.cache Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anuradha_bartonde/.m2/repository/com/aventstack/extentreports/3.1.3/extentreports-3.1.3.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"

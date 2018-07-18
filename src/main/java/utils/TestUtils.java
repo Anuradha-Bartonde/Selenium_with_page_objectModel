@@ -17,12 +17,12 @@ public class TestUtils extends TestBase {
 		super();
 	}
 
-	public static void takesScreenshot()
+	public static void takesScreenshot(String name)
 	{
 		System.out.println("In takescreenshot");
 	 TakesScreenshot takeScreenshot=((TakesScreenshot)driver);
 	 File srcFile=takeScreenshot.getScreenshotAs(OutputType.FILE);
-	 File destFile=new File(System.getProperty("user.dir")+"//screenshots//"+System.currentTimeMillis()+".png");
+	 File destFile=new File(System.getProperty("user.dir")+"//screenshots//"+name+"_"+System.currentTimeMillis()+".png");
 	 try {
 		FileUtils.copyFile(srcFile,destFile);
 	} catch (IOException e) {
@@ -81,4 +81,13 @@ public class TestUtils extends TestBase {
 		actions.moveToElement(element).build().perform();
 		
 	}
+	public boolean IsAnyFramePresent()
+	{  
+	  if(driver.getPageSource().contains("ifame"))
+	   {
+		return true;
+	    }
+	   else
+		return false;
+    }
 }

@@ -29,9 +29,11 @@ public class LoginPageTest extends TestBase{
 	public void login() throws InterruptedException
 	{
 		dashboardpage=loginPgae.login();
+		System.out.println("log object: "+log);
 		String username=dashboardpage.getLoggedinUser();
-		System.out.println("Logged In user: "+username);
-		Assert.assertEquals(username, prop.getProperty("user"),"LoginFailed");	
+		log.info("Logged In user: "+username);
+		Assert.assertEquals(username, prop.getProperty("user"),"LoginFailed");
+		//log.info("User: "+username+" is logged Successfully");
 		
 	}
 	
@@ -46,7 +48,7 @@ public class LoginPageTest extends TestBase{
 	@AfterMethod
 	public void tearDown()
 	{
-		//driver.quit();
+		driver.quit();
 	}
 
 }

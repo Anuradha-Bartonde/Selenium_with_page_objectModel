@@ -8,7 +8,7 @@ import org.openqa.selenium.support.events.WebDriverEventListener;
 
 import utils.TestUtils;
 
-public class WebEventHandler implements WebDriverEventListener{
+public class WebEventHandlerListener implements WebDriverEventListener{
 
 	public void afterAlertAccept(WebDriver arg0) {
 		System.out.println("Alert Accepted");
@@ -121,7 +121,6 @@ public class WebEventHandler implements WebDriverEventListener{
 
 	public void onException(Throwable error, WebDriver driver) {
 		System.out.println("Error: "+error.getStackTrace());
-		TestUtils.takesScreenshot();
 		
 	}
 

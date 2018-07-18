@@ -3,6 +3,7 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
   <listeners>
     <listener class-name="listeners.AnnotationTransform"/>
+    <listener class-name="listeners.ExtentReport"/>
   </listeners>
   <test thread-count="5" name="CCLoginTest(failed)" parallel="tests">
     <classes>
@@ -15,7 +16,6 @@
       </class> <!-- testcases.PolicyManagementPageTest -->
       <class name="testcases.DashBoardPageTest">
         <methods>
-          <include name="Test3"/>
           <include name="AfterTest"/>
           <include name="Test2"/>
           <include name="tearDown"/>

@@ -6,8 +6,11 @@ import java.io.IOException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
-import listeners.WebEventHandler;
+import listeners.WebEventHandlerListener;
 
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -24,6 +27,7 @@ public class TestBase {
 	public  static WebDriver driver;
 	public static WebDriverWait wait;
 	public static JavascriptExecutor js;
+	public static Logger log;;
 public TestBase()
  {
 	FileInputStream fis;
@@ -31,6 +35,8 @@ public TestBase()
 		fis = new FileInputStream("D:\\Selenium_own_practice\\ibm\\src\\main\\java\\config\\config.properties");
 	 prop=new Properties();
 		prop.load(fis);
+		log=LogManager.getLogger("CCRootLogger");
+		PropertyConfigurator.configure("D:\\Selenium_own_practice\\ibm\\src\\main\\resources\\log4j.properties");
 	} catch (IOException e) {
 		// TODO Auto-generated catch block
 		e.printStackTrace();
@@ -66,7 +72,7 @@ public void  initialize()
 	//Register for handling webEventListener
 	EventFiringWebDriver eventDriver=new EventFiringWebDriver(driver);
 	js=(JavascriptExecutor)driver;
-	WebEventHandler handler=new WebEventHandler();
+	WebEventHandlerListener handler=new WebEventHandlerListener();
 	eventDriver.register(handler);
 	driver=eventDriver;
 	driver.manage().window().maximize();

@@ -1,5 +1,6 @@
 package testcases;
 
+import org.testng.SkipException;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.AfterTest;
@@ -38,30 +39,30 @@ public class DashBoardPageTest extends TestBase{
 	@BeforeSuite
 	public void BeforeSuite()
 	{
-		System.out.println("****Dashboard Page BeforeSuite() Test****");
+		log.info("****Dashboard Page BeforeSuite() Test****");
 	}
 	
 	@AfterSuite
 	public void AfterSuite()
 	{
-		System.out.println("****Dashboard Page AfterSuite() Test****");
+		log.info("****Dashboard Page AfterSuite() Test****");
 	}
 	
 	@BeforeTest
 	public void BeforeTest()
 	{
-		System.out.println("****Dashboard Page BeforeTest() Test****");
+		log.info("****Dashboard Page BeforeTest() Test****");
 	}
 	
 	@AfterTest
 	public void AfterTest()
 	{
-		System.out.println("****Dashboard Page AfterTest() Test****");
+		log.info("****Dashboard Page AfterTest() Test****");
 	}
 	@BeforeMethod
 	public void setUp()
 	{
-		System.out.println("****Dashboard Page BeforeMethod()****");
+		log.info("****Dashboard Page BeforeMethod()****");
 		initialize();
 		loginPgae=new LoginPage();
 		dashboardpage=loginPgae.login();		
@@ -71,15 +72,15 @@ public class DashBoardPageTest extends TestBase{
     @AfterMethod
     public void tearDown()
     {
-    	System.out.println("****Dashboard Page AfterMethod()****");
-	  //driver.quit();
+    	log.info("****Dashboard Page AfterMethod()****");
+	  driver.quit();
     }
     
     
     @Test(priority=1,groups={"Regression"})
     public void verifyDashboardPage()
     {
-    	System.out.println("On Dashborad Page");
+    	log.info("On Dashborad Page");
      //Assert.assertEquals(dashboardpage.getDashBoardLabel(), "Dashboard", "Not On DashBoard Page");
      //Assert.assertEquals(dashboardpage.getDashBoardLabel(), "DashBoard");
     }
@@ -87,7 +88,8 @@ public class DashBoardPageTest extends TestBase{
     @Test(priority=2,groups={"Sanity"})
     public void Test2()
     {
-    	System.out.println("On Dashborad Page:Test2()");
+    	throw new SkipException(" Test2() method is skipped");
+    	//log.info("On Dashborad Page:Test2()");
      //Assert.assertEquals(dashboardpage.getDashBoardLabel(), "Dashboard", "Not On DashBoard Page");
      //Assert.assertEquals(dashboardpage.getDashBoardLabel(), "DashBoard");
     }
@@ -95,7 +97,7 @@ public class DashBoardPageTest extends TestBase{
     @Test(priority=3,groups={"Regression"})
     public void Test3()
     {
-    	System.out.println("On Dashborad Page:Test3()");
+    	log.info("On Dashborad Page:Test3()");
      //Assert.assertEquals(dashboardpage.getDashBoardLabel(), "Dashboard", "Not On DashBoard Page");
      //Assert.assertEquals(dashboardpage.getDashBoardLabel(), "DashBoard");
     }

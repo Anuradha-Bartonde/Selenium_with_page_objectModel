@@ -31,9 +31,8 @@ public class PolicyManagementPageTest extends TestBase{
 	MyTasksPage myTasksPage;
 	MyRequestsPage myRequestsPage;
 	ReviewPolicyCustomizationPage reviewPolicyCustomizationPage;
-	//Logger log=Logger.getLogger(PolicyManagementPageTest.class);
-
 	
+
 	public PolicyManagementPageTest()
 	{
 		super();
@@ -42,11 +41,14 @@ public class PolicyManagementPageTest extends TestBase{
 	@BeforeMethod
 	public void setUp()
 	{
+		log.info("*****Start of stepUp() of PolicyManagementPageTest ********");
 		initialize();
 		loginPgae=new LoginPage();
 		dashboardpage=loginPgae.login();
 		dashboardpage.clickOnContinuousComplianceLink();
 		policyManagementPage=dashboardpage.clickOnPolicyManagementLink();
+		
+		log.info("*****End of stepUp() of PolicyManagementPageTest ********");
 		//clickOnMyTasksLink
 		//PropertyConfigurator.configure("D:/Selenium_own_practice/ibm/src/main/resources/log4j.properties");
 		
@@ -56,27 +58,30 @@ public class PolicyManagementPageTest extends TestBase{
     @AfterMethod
     public void tearDown()
     {
-	  //driver.quit();
+	  driver.quit();
     }
     
     @Test(groups={"Sanity"})
 
     public void createNewEnvironment()
     {
-    	//log.info("****************Start of createNewEnvironment() method *****************");
+    	log.info("****************Start of createNewEnvironment() method *****************");
     	
     	try {
-    		policyManagementPage.clickOnInitiatePolicyCustomizationBtn();
-        	policyManagementPage.getEnv("Env1");
+    		String env_name="test_env1";
+    		Boolean envPresent=false;
+    		//envPresent=policyManagementPage.getEnv(env_name);
+    		//Assert.assertTrue(envPresent, "Environment already present..");
+    		policyManagementPage.clickOnInitiatePolicyCustomizationBtn();    		
         	policyManagementPage.clickOnAddNewEnvironmentBtn();
-        	policyManagementPage.enterEnvName("Env1");
+        	policyManagementPage.enterEnvName(env_name);
         	policyManagementPage.selectEnvReleaseNumber("20.6.0");
         	policyManagementPage.scrollToAddToBundleBtn();
 			Thread.sleep(1000);
 			policyManagementPage.clickOnAddToBundleBtn();
 			Thread.sleep(1000);
 			String requestId=policyManagementPage.getRequsetId();
-			System.out.println("Request Id captured while submitting bundle: "+requestId);
+			log.info("Request Id captured while submitting bundle: "+requestId);
 			Thread.sleep(2000);
 			policyManagementPage.clickOnSubmitBundleBtn();
 			Thread.sleep(5000);
@@ -90,14 +95,15 @@ public class PolicyManagementPageTest extends TestBase{
 	    	String status=myRequestsPage.getStatusOfRequestIdExecution(requestId);
 	    	
 	    	Assert.assertEquals(status, "Execution Successful", "Create new environment execution Failed");
-	    	
+	    	log.info("Create new Environment "+env_name+ " request is successful");
+	    
+	    	log.info("****************End of createNewEnvironment() method *****************");
 	    	
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
     	
-    	//log.info("****************End of createNewEnvironment() method *****************");
+    	log.info("****************End of createNewEnvironment() method *****************");
     	
     }
     

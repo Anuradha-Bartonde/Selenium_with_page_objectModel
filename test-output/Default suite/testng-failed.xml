@@ -3,13 +3,15 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.LoginPageTest">
+      <class name="generateExtentReports.ExtentReport">
         <methods>
-          <include name="setUp"/>
-          <include name="login"/>
+          <include name="startReport"/>
           <include name="tearDown"/>
+          <include name="getResult"/>
+          <include name="demoTestSkip"/>
+          <include name="demoTestFail"/>
         </methods>
-      </class> <!-- testcases.LoginPageTest -->
+      </class> <!-- generateExtentReports.ExtentReport -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
